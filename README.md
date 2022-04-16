@@ -1,6 +1,6 @@
 # Tick-Bars
 
-This was a project made by Nathan Hall for ECMT3150 at USYD.
+This was a project made by Nathan Hall for fun
 
 ##### Provided under MIT License by Nathan Hall.
 *Note: this library may be subtly broken or buggy. The code is released under
